@@ -41,7 +41,7 @@ mim install mmcv-full
 git clone https://github.com/tiana-tang/Goat-Face-Detection-and-Recognition.git
 
 # 进入 目录
-cd code
+cd Goat-Face-Detection-and-Recognition
 
 # 安装依赖
 pip install -r requirements/build.txt
