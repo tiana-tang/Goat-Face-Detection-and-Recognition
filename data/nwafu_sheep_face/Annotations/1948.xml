@@ -1,0 +1,38 @@
+<annotation>
+	<folder>nwafu_sheep_face2</folder>
+	<filename>1948.jpg</filename>
+	<path>D:\Tencent Files\799009642\FileRecv\data\data\nwafu_sheep_face2\1948.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>632</width>
+		<height>354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>126</ymin>
+			<xmax>446</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>439</xmin>
+			<ymin>199</ymin>
+			<xmax>530</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

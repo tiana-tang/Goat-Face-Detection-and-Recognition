@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nwafu_sheep_face2</folder>
+	<filename>3123.jpg</filename>
+	<path>C:\Users\XuLiu\Desktop\nwafu_sheep_face2\3123.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>53</ymin>
+			<xmax>171</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>
