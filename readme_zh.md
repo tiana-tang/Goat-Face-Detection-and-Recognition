@@ -81,9 +81,8 @@ python tools/test.py configs/nwafu_sheep_face/faster_rcnn_r50_fpn_sheep_face.py 
 请根据以下格式引用本项目：
 
 ```
-@article{Addressing2025,
-  title={Addressing Facial Geometric Transformations in Goat Face
-Detection and Recognition},
+@article{Context2025,
+  title={Context-Assisted Deformable Convolution for Robust Goat Face Detection and Identification},
   author={Gaoge Han,  Lianyue Zhang, Zihan Bai, Xue Zhang, Ruizi Han, Chao Tang, Lianyue Zhang and
 Jinglei Tang},
   journal={The Visual Computer},
